@@ -24,11 +24,11 @@
 
 ### 주요 프로젝트
 
-| 프로젝트 | 핵심 내용 | 역할 / 기술 |
+| 프로젝트 | 핵심 내용 | 맡은 역할 |
 | --- | --- | --- |
-| [집er Jiber](https://github.com/yujiho568/Jiber_Web) | 지도 기반 부동산 실거래 탐색, 아파트 적정가 추정, SHAP 기반 가격 설명 기능을 제공하는 웹 플랫폼입니다. Spring MVC/JSP 구조를 Spring Boot + Vue 3 SPA 구조로 전환하고, Docker Compose로 실행 환경을 표준화했습니다. | Spring Boot, Vue 3, MyBatis, MySQL, JWT/OAuth2, Docker, RAG/XAI |
-| [졸업과제 UEBA](https://github.com/yujiho568/uebaproject) | AWS CloudTrail 기반 사용자 행동 이상탐지 시스템입니다. Doc2Vec을 활용한 행동 시퀀스 임베딩과 이상탐지 흐름을 설계하고, FastAPI 기반 로그 수집·분석 API를 구현했습니다. | Python, FastAPI, Doc2Vec, AWS CloudTrail, 이상탐지 |
-| [빵긋 Bbanggeut](https://github.com/yujiho568/bbanggeut) | 홈캠에서 웃음/박수 이벤트를 감지해 자동 클립을 생성하고 앱에서 확인·편집·저장하는 서비스입니다. 엣지 디바이스 에이전트, RTSP/WebRTC 스트리밍, 이벤트 감지, 미디어 처리, CI/CD 안정화를 담당했습니다. | YOLO/YAMNet, FFmpeg/GStreamer, MediaMTX, Jenkins, Edge Device |
+| [집er Jiber](https://github.com/yujiho568/Jiber_Web) | 지도 기반 부동산 실거래 탐색, 아파트 적정가 추정, SHAP 기반 가격 설명 기능을 제공하는 웹 플랫폼입니다. Spring MVC/JSP 구조를 Spring Boot + Vue 3 SPA 구조로 전환하고, Docker Compose로 실행 환경을 표준화했습니다. | 백엔드와 프론트엔드 구조 전환, JWT/OAuth2 인증, MyBatis 기반 매물·즐겨찾기·공공데이터 API, AI 모델/XAI 결과 연동, Docker Compose 실행 환경 구성을 담당했습니다. |
+| [졸업과제 UEBA](https://github.com/yujiho568/uebaproject) | AWS CloudTrail 기반 사용자 행동 이상탐지 시스템입니다. Doc2Vec을 활용한 행동 시퀀스 임베딩과 이상탐지 흐름을 설계하고, FastAPI 기반 로그 수집·분석 API를 구현했습니다. | FastAPI 기반 백엔드 개발, 로그 수집·분석 API 구현, Doc2Vec 기반 행동 시퀀스 임베딩 설계, 이상탐지 파이프라인 구성을 담당했습니다. |
+| [빵긋 Bbanggeut](https://github.com/yujiho568/bbanggeut) | 홈캠에서 웃음/박수 이벤트를 감지해 자동 클립을 생성하고 앱에서 확인·편집·저장하는 서비스입니다. 엣지 디바이스 에이전트, RTSP/WebRTC 스트리밍, 이벤트 감지, 미디어 처리, CI/CD 안정화를 담당했습니다. | Jetson/Raspberry Pi 디바이스 에이전트, MediaMTX 기반 스트리밍, YOLO/YAMNet 이벤트 감지, FFmpeg/GStreamer 미디어 처리, 기기 등록·운영 자동화와 Jenkins CI/CD 안정화를 담당했습니다. |
 
 <p align="center">
   <a href="https://github.com/yujiho568/Jiber_Web"><img src="https://img.shields.io/badge/대표%20프로젝트-집er%20Jiber-2E7D32?style=for-the-badge" /></a>
