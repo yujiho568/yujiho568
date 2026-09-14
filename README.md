@@ -1,9 +1,8 @@
-<h2 align="center">Yu Jiho | Backend & AI Application Developer</h2>
+<h2 align="center">유지호 | 백엔드 & AI 서비스 개발자</h2>
 
 <p align="center">
-  Spring Boot, FastAPI, data-driven backend systems, and AI-powered services.
-  <br />
-  I like building products that connect real user workflows with reliable infrastructure.
+  Spring Boot와 FastAPI를 기반으로 백엔드 시스템을 만들고,<br />
+  데이터와 AI 모델을 실제 서비스 흐름에 연결하는 개발에 관심이 있습니다.
 </p>
 
 <p align="center">
@@ -16,20 +15,21 @@
 
 ---
 
-### Focus
+### 관심 분야
 
-- Backend development with Java, Spring Boot, Python, and FastAPI
-- Database design, SQL tuning, MySQL, Redis, and cache-aware service design
-- AI service integration: RAG, XAI, Doc2Vec/ML, model server integration
-- Deployment and collaboration with Docker Compose, Git, GitHub, and CI/CD
+- Java / Spring Boot 기반 백엔드 개발
+- Python / FastAPI 기반 데이터·AI API 개발
+- MySQL, Redis, SQL 튜닝, 캐시를 활용한 서비스 성능 개선
+- RAG, XAI, Doc2Vec/ML 등 AI 기능의 서비스 연동
+- Docker Compose, GitHub, CI/CD를 활용한 협업 및 운영 환경 구성
 
-### Featured Projects
+### 주요 프로젝트
 
-| Project | What I Built | Stack / Role |
+| 프로젝트 | 핵심 내용 | 역할 / 기술 |
 | --- | --- | --- |
-| [Jiber](https://github.com/yujiho568/Jiber_Web) | Map-based real-estate transaction search, apartment price estimation, and SHAP-based price explanation platform. Migrated Spring MVC/JSP structure toward Spring Boot + Vue 3 SPA and standardized the local execution environment with Docker Compose. | Spring Boot, Vue 3, MyBatis, MySQL, JWT/OAuth2, Docker, RAG/XAI |
-| [UEBA Project](https://github.com/yujiho568/uebaproject) | AWS CloudTrail based user behavior anomaly detection backend. Designed behavior-sequence embedding and detection flow using Doc2Vec, and implemented log collection / analysis APIs with FastAPI. | Python, FastAPI, Doc2Vec, AWS CloudTrail, anomaly detection |
-| [Bbanggeut](https://github.com/yujiho568/bbanggeut) | Home-camera event detection service that creates clips for laughter and applause events. Worked on edge device agents, RTSP/WebRTC streaming, event detection, media processing, device operations, and CI/CD stabilization. | Edge AI, YOLO/YAMNet, FFmpeg/GStreamer, MediaMTX, Jenkins |
+| [집er Jiber](https://github.com/yujiho568/Jiber_Web) | 지도 기반 부동산 실거래 탐색, 아파트 적정가 추정, SHAP 기반 가격 설명 기능을 제공하는 웹 플랫폼입니다. Spring MVC/JSP 구조를 Spring Boot + Vue 3 SPA 구조로 전환하고, Docker Compose로 실행 환경을 표준화했습니다. | 백엔드/프론트엔드/AI 연동, Spring Boot, Vue 3, MyBatis, MySQL, JWT/OAuth2, Docker, RAG/XAI |
+| [졸업과제 UEBA](https://github.com/yujiho568/uebaproject) | AWS CloudTrail 기반 사용자 행동 이상탐지 시스템입니다. Doc2Vec을 활용한 행동 시퀀스 임베딩과 이상탐지 흐름을 설계하고, FastAPI 기반 로그 수집·분석 API를 구현했습니다. | 백엔드 개발, Python, FastAPI, Doc2Vec, AWS CloudTrail, 이상탐지 |
+| [빵긋 Bbanggeut](https://github.com/yujiho568/bbanggeut) | 홈캠에서 웃음/박수 이벤트를 감지해 자동 클립을 생성하고 앱에서 확인·편집·저장하는 서비스입니다. 엣지 디바이스 에이전트, RTSP/WebRTC 스트리밍, 이벤트 감지, 미디어 처리, CI/CD 안정화를 담당했습니다. | 엣지 AI, YOLO/YAMNet, FFmpeg/GStreamer, MediaMTX, Jenkins |
 
 <p align="center">
   <a href="https://github.com/yujiho568/Jiber_Web">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-### Tech Stack
+### 기술 스택
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -59,11 +59,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### Currently Interested In
+### 지금 더 파고드는 것
 
-- Building backend systems that are observable, testable, and easy to operate
-- Turning AI experiments into usable product features
-- Improving retrieval quality, evaluation, and explainability in AI applications
+- 관측 가능하고 테스트하기 쉬운 백엔드 구조
+- AI 실험을 실제 사용 가능한 기능으로 연결하는 방법
+- 검색 품질, 평가, 설명 가능성을 갖춘 AI 서비스 설계
 
 ---
 
